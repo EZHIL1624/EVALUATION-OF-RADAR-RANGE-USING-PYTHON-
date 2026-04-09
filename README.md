@@ -25,8 +25,9 @@ transmitter gain, receiver gain, radar frequency, radar cross section, and minim
 6. Execute the Program: Run the Python script to calculate and display the maximum range of the radar.
 
 
-   ___Algorithm__:
-   
+   TABULATION:
+   <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/35d2ab2c-9c8c-4df8-b5c6-07758c263359" />
+
 
 
 
@@ -35,6 +36,8 @@ transmitter gain, receiver gain, radar frequency, radar cross section, and minim
 
 
    __Output__:
+   <img width="474" height="1245" alt="image" src="https://github.com/user-attachments/assets/3ed389f2-f6fe-40f2-9a33-514ff568aadc" />
+
    
 
 
@@ -44,7 +47,8 @@ transmitter gain, receiver gain, radar frequency, radar cross section, and minim
 
 
    __Result__:
-   
+   <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/68e50f28-b716-4d5d-8ae5-b755270b745f" />
+
 
 
 
